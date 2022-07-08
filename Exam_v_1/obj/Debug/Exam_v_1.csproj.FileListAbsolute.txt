@@ -1,0 +1,7 @@
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\bin\Debug\Exam_v_1.exe.config
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\bin\Debug\Exam_v_1.exe
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\bin\Debug\Exam_v_1.pdb
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\obj\Debug\Exam_v_1.csproj.AssemblyReference.cache
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\obj\Debug\Exam_v_1.csproj.CoreCompileInputs.cache
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\obj\Debug\Exam_v_1.exe
+D:\Work\Курсы\экзамен\Программы\Exam_v_1\Exam_v_1\obj\Debug\Exam_v_1.pdb
